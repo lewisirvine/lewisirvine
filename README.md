@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lewisirvine
+- 👀 I’m interested in building code to model charge carrier dynamics in lead--halide perovskites
+- 📫 Email me at lewis.irvine@hotmail.com
